@@ -3,7 +3,7 @@
 Fırat Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. 
 
 ### 🚀 Hakkımda
-Akıllı tarım, insansız deniz araçları ve trafik güvenliği gibi projelerimde ağırlıklı olarak **Yapay Zeka** ve **Veri Bilimi** teknolojileri üzerine yoğunlaşıyorum. Yazılımın mutfağında Java, Python ve Nesne Yönelimli Programlama ile geliştirme yaparken; robotik sistemleri bu zekayla birleştirmeyi hedefliyorum.
+Akıllı tarım, insansız deniz araçları gibi projelerimde ağırlıklı olarak **Yapay Zeka** ve **Veri Bilimi** teknolojileri üzerine yoğunlaşıyorum. Yazılımın mutfağında Java, Python ve Nesne Yönelimli Programlama ile geliştirme yaparken; robotik sistemleri bu zekayla birleştirmeyi hedefliyorum.
 
 ### 🛠️ Teknolojiler ve Araçlar
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
