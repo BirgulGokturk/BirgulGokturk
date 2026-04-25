@@ -60,10 +60,10 @@
 
 ### 📫 Benimle İletişime Geç
 <div align="center">
-  <a href="https://linkedin.com/in/LINKIN">
+  <a href="https://linkedin.com/in/birg%C3%BCl-g%C3%B6kt%C3%BCrk-3a150b388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:E-POSTA_ADRESIN">
+  <a href="mailto:birgulgokturk.sw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
