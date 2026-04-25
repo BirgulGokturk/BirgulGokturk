@@ -3,7 +3,7 @@
 Fırat Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. 
 
 ### 🚀 Hakkımda
-Akıllı tarım, insansız deniz araçları ve trafik güvenliği gibi projelerimde ağırlıklı olarak **Yapay Zeka** ve **Veri Bilimi** teknolojileri üzerine yoğunlaşıyorum. Yazılımın mutfağında Java, Python ve Nesn Yönelimli Programlama ile geliştirme yaparken; robotik sistemleri bu zekayla birleştirmeyi hedefliyorum.
+Akıllı tarım, insansız deniz araçları ve trafik güvenliği gibi projelerimde ağırlıklı olarak **Yapay Zeka** ve **Veri Bilimi** teknolojileri üzerine yoğunlaşıyorum. Yazılımın mutfağında Java, Python ve Nesne Yönelimli Programlama ile geliştirme yaparken; robotik sistemleri bu zekayla birleştirmeyi hedefliyorum.
 
 ### 🛠️ Teknolojiler ve Araçlar
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -12,5 +12,5 @@ Akıllı tarım, insansız deniz araçları ve trafik güvenliği gibi projeleri
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 İletişim
-- [LinkedIn](www.linkedin.com/in/birgül-göktürk-3a150b388)
-- [E-posta](birgulgokturk.sw@gmail.com)
+- [LinkedIn]www.linkedin.com/in/birgül-göktürk-3a150b388
+- [E-posta]birgulgokturk.sw@gmail.com
