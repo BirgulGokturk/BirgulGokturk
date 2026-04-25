@@ -1,9 +1,16 @@
-## Yazılım Oryantasyon Ödevi
+# Merhaba, ben Birgül Göktürk! 👋
 
-Merhaba, ben Birgül Göktürk. Bu, yazılım oryantasyon ödevim için hazırladığım GitHub profil sayfasıdır.
+Fırat Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. 
 
-### 🎥 YouTube Ödev Videosu
+### 🚀 Hakkımda
+Akıllı tarım, insansız deniz araçları ve trafik güvenliği gibi projelerimde ağırlıklı olarak **Yapay Zeka** ve **Veri Bilimi** teknolojileri üzerine yoğunlaşıyorum. Yazılımın mutfağında Java, Python ve Nesn Yönelimli Programlama ile geliştirme yaparken; robotik sistemleri bu zekayla birleştirmeyi hedefliyorum.
 
-Aşağıdaki linkten ödev videomu izleyebilirsiniz:
+### 🛠️ Teknolojiler ve Araçlar
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[Ödev Videosunu İzle] https://www.youtube.com/watch?v=vye1VxYownE
+### 📫 İletişim
+- [LinkedIn](www.linkedin.com/in/birgül-göktürk-3a150b388)
+- [E-posta](birgulgokturk.sw@gmail.com)
