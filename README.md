@@ -19,9 +19,7 @@
       <ul>
         <li>Java ile <b>Nesne Yönelimli Programlama (OOP)</b> temellerini güçlendiriyorum.</li>
         <li>Python ile veri analitiği projeleri geliştiriyorum.</li>
-        <li><b>Görüntü İşleme</b> dünyasına giriş yaptım; OpenCV öğreniyorum.</li>
-      </ul>
-    </td>
+   
   </tr>
 </table>
 
